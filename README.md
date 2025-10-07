@@ -58,3 +58,7 @@ To test the mobile responsiveness:
 
 Music and Art: Joseph Thorpe (Collect Call)
 Website Design: Based on album aesthetics and Bandcamp presence
+
+## Repository
+
+GitHub: https://github.com/zerdos/cc-music-page
